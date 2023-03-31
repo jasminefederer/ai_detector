@@ -1,5 +1,3 @@
-README
-
 https://chat.openai.com/chat
 
 This repo utilizes the work of Openai-Detector and is part of a workshop by the wonderful @katsully
