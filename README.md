@@ -1,7 +1,6 @@
 https://chat.openai.com/chat
 
-This repo utilizes the work of Openai-Detector and is part of a workshop by the wonderful @katsully
-- Her repo can be found at: https://github.com/katsully/chatgpt-email-detector
+This repo utilizes the work of Openai-Detector and is part of a workshop by the wonderful @katsully whose repo can be found at: https://github.com/katsully/chatgpt-email-detector
 
 Discover if someone is sending you an email using ChatGPT! With each new email, this script will give you the likelihood that the email was authored using OpenAI's ChatGPT.
 
